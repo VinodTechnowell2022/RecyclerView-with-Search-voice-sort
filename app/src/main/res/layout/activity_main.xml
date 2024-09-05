@@ -15,7 +15,7 @@
         app:layout_constraintStart_toStartOf="parent"
         android:fillViewport="true"
         android:layout_height="0dp"
-        android:scrollbars="none"
+        android:scrollbars="vertical"
         android:background="@color/off_white">
 
         <LinearLayout
