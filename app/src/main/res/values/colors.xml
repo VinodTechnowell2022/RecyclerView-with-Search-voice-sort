@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="main_dark">@color/colorPrimaryDark</color>
+    <color name="red">#F63223</color>
+    <color name="absent">#e36009</color>
+    <color name="card_orange">#EDF5E1D4</color>
+    <color name="main_light">#BA47A2ED</color>
+    <color name="main_vlight">#F36CBAFA</color>
+    <color name="colorPrimaryDark">#4890F8</color>
+
+    <color name="grey">#989696</color>
+    <color name="off_white">#F8F7F9</color>
+    <color name="vlight_grey">#AFAEAE</color>
+    <color name="light_grey">#E4E2E2</color>
+</resources>
